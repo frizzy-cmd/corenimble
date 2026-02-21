@@ -13,6 +13,7 @@ Nimble, also knows as Core Nimble is a high-performance, chromium-based browser 
 * **⚡ Ultra-Lightweight:** A single Google tab on idle uses only **24 MB** of RAM.
 * **🧠 Intelligent Memory:** Built-in **RAM Limiter** and **Auto-Tab Suspension** to keep your 4GB or 8GB system from dying.
 * **🎮 GPU Tuned:** Optimized for **old NVIDIA graphic cards,** using ANGLE/D3D11.
+* **💢 Seamless Updates:** Upgrading to a new version? Nimble keeps your profile and logins safe, so you can jump right back in.
 * **👻 Privacy First:** Integrated "Ghost Mode" for incognito browsing that doesn't save to history, **Ghost Mode runs completely off your RAM, ensuring no traces.**
 
 ---
