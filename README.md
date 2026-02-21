@@ -42,6 +42,13 @@ For the best experience on legacy hardware:
 2.  Run the installer
 3.  Enjoy!
 
+## ❗ Notes
+* **⚠️ Work in Progress: This is an Alpha release. Expect some bugs**
+* **🎨 UI Aesthetics: The interface is currently "function over fashion." It's a bit plain, but it's built to save your RAM.**
+* **🧩 Missing Features: Extension support (Adblock, etc.) and a "Clear cache" button are currently missing but planned for future versions, You can clear cache by going to %localappdata%\corenimble and deleting the cache folder.**
+* **💾 Data Handling: On the Portable version, history and bookmarks are saved to the local PC's AppData folder. If you're on a public computer, you'll need to delete the corenimble folder in %localappdata% manually to delete your history, bookmarks and et cetera.**
+* **🚀 Software Rendering: Please, turn this OFF in settings unless your screen is flickering. Your GPU (even an old graphics card) will handle the browser way better than your CPU, Unless you know what you're doing, or your current graphics card is having a problem, you may turn it on.**
+
 ## 💭 Plans
 * **💻 I will release Linux support shortly, please be patient!**
 * **📱 Mobile support may release, but due to the complexity and due to me being the only developer, this may not happen.**
