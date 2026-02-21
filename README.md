@@ -1,6 +1,6 @@
 # 🚀 Core Nimble (Latest ver: v0.1.8-alpha)
 
-**The ultimate "lightweight" browser for legacy/low-end computers..** 🐐
+**The ultimate "lightweight" browser for legacy/low-end computers** ⏩
 
 Nimble, also knows as Core Nimble is a high-performance, chromium-based browser engine specifically tuned for low-end, legacy hardware. While modern browsers eat 500MB just to show a blank page, **Core Nimble keeps it under 30MB on idle. No bloat, no tracking, just speed, security, and convenience.**
 
