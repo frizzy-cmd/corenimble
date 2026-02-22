@@ -1,4 +1,4 @@
-# 🚀 Core Nimble (Latest ver: ![Version](https://img.shields.io/badge/version-0.1.8--hotfix-blue))
+# 🚀 Core Nimble (Latest ver: ![Version](https://img.shields.io/badge/version-1.0.0--open-beta-blue))
 
 **The ultimate "lightweight" browser for legacy/low-end computers** ⏩
 
