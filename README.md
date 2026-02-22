@@ -23,16 +23,21 @@ Nimble, also knows as Core Nimble is a high-performance, chromium-based browser 
 | :--- | :--- |
 | `Ctrl + Shift + N` | Instant new tab |
 | `Ctrl + Shift + D` | Duplicate current tab |
+| `Ctrl + Shift + M` | Mute tab |
+| `Ctrl + W` | Close tab |
 | `Ctrl + L` | Jump to URL Bar (Omnibox) |
+| `Ctrl + +` | Zoom in |
+| `Ctrl + -` | Zoom out |
+| `Ctrl + 0` | Zoom reset |
 
 ---
 
 ## 🛠️ Optimization
 
 For the best experience on legacy hardware:
-1.  **Disable Software Rendering in Settings** [unless your graphics card is having a problem]
-2.  Set your **RAM Limit to ~1024MB** if you only have 4GB total.
-3.  Let **Tab Suspension** handle background tabs so your CPU stays cool.
+1.  **Disable software rendering in Settings** [unless your graphics card is having a problem]
+2.  Set your **RAM Limit to ~1024MB or 2048MB** if you only have 4GB total.
+3.  Let **Tab suspension** handle background tabs so your CPU stays cool.
 
 ---
 
