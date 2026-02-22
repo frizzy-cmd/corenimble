@@ -1,6 +1,33 @@
+# junk
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# dist
 dist/
 build/
-__pycache__/
-*.exe
 *.spec
 _internal/
+
+# data
+*Cache/
+*cache/
+Local Storage/
+Session Storage/
+Shared Dictionary/
+Network Persistent State
+TransportSecurity
+Trust Tokens*
+Visited Links
+user_prefs.json
+Cookies*
+History*
+Favicons*
+
+# log
+*.log
+*.tmp
+.vscode/
+.idea/
