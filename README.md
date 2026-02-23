@@ -29,6 +29,7 @@ Nimble, also knows as Core Nimble is a high-performance, chromium-based browser 
 | `Ctrl + +` | Zoom in |
 | `Ctrl + -` | Zoom out |
 | `Ctrl + 0` | Zoom reset |
+| `Ctrl + F` | Find in page |
 
 ---
 
