@@ -44,7 +44,7 @@ For the best experience on legacy hardware:
 
 ## 📦 Installation
 
-1.  Download `corenimble_installer_v0.1.8.exe` from the releases.
+1.  Download `corenimble_installer_v1.0.0.exe` from the releases.
 2.  Run the installer
 3.  Enjoy!
 
