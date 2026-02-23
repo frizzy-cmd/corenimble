@@ -54,6 +54,7 @@ For the best experience on legacy hardware:
 * **🧩 Missing Features: Extension support (Adblock, etc.) and a "Clear cache" button are currently missing but planned for future versions, You can clear cache by going to %localappdata%\corenimble and deleting the cache folder.**
 * **💾 Data Handling: On the Portable version, history and bookmarks are saved to the local PC's AppData folder. If you're on a public computer, you'll need to delete the corenimble folder in %localappdata% manually to delete your history, bookmarks and et cetera.**
 * **🚀 Software Rendering: Please, turn this OFF in settings unless your screen is flickering. Your GPU (even an old graphics card) will handle the browser way better than your CPU, Unless you know what you're doing, or your current graphics card is having a problem, you may turn it on.**
+* **🔏 Privacy: We do NOT, and will never, track, send data, telemetry, or any other type of data sending to any servers, The code is open source anyway, You can check for yourself!**
 
 ## 💭 Plans
 * **💻 I will release Linux support shortly, please be patient!**
